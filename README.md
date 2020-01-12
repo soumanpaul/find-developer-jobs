@@ -29,12 +29,6 @@
 
 ---
 ## Demo 
-[![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://developersprofile.herokuapp.com/)
-
-
-API Documentatioin [here](https://github.com/soumanpaul/Developers-profile-fullstack-app/blob/master/API%20Docs/doc.md)
-
-Extensive API documentation with examples [here](https://documenter.getpostman.com/view/5731747/SWLYDBiQ?version=latest#bb9e7694-8e53-4f33-b833-6dbab3727a3f)
 
 
 ![](screens/output.gif)
@@ -45,7 +39,7 @@ Extensive API documentation with examples [here](https://documenter.getpostman.c
   - [x] Signup/signin 
   - [x] Find Dev jobs
   - [x] Apply for job
-  
+
 ---
 ## Built With
 + Uses Express as the application Framework.
